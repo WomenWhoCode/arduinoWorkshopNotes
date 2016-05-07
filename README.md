@@ -23,5 +23,6 @@
 
 `https://adafruit.github.io/arduino-board-index/package_adafruit_index.json`
 
-
+## Workshop Presentation
+[Intro Workshop Presentation](https://docs.google.com/presentation/d/1u2a9u5gM9AnC2-oPNAhgLsluyO0kCzEihbkbLEUFh7A/edit?usp=sharing)
 
